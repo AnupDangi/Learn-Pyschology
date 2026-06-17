@@ -1,0 +1,12 @@
+# Large copyrighted textbooks — kept locally, not tracked in git
+MIT_INTRO_TO_PSYCHOLOGY.pdf
+Psychology_Peter_Gray.pdf
+
+# Large DiMAP course journal (73 MB — exceeds GitHub file size recommendation)
+Diploma in Modern Applied Psychology Course (DiMAP.)/DMAP Course Journal - NEW.pdf
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
