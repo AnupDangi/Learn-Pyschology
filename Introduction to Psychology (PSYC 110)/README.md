@@ -3,6 +3,7 @@
 **Yale University · Open Yale Courses · Professor Paul Bloom**
 
 Course site: https://oyc.yale.edu/psychology/psyc-110
+Youtube Lectures: https://youtu.be/P3FKHH2RzjI?si=heaLVbvege7OyjSR
 
 A comprehensive scientific introduction to the human mind — spanning neuroscience, development, language, memory, emotion, social psychology, mental illness, and happiness.
 
